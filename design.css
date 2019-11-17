@@ -1,0 +1,133 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-size: 13px;
+    font-family: Tahoma, Arial;
+}
+
+#container {
+    margin: auto;
+    height: 800px;
+    width: 1200px;
+    background: #b0b0b0;
+    margin-top: 30px;
+}
+
+#div1 {
+    height: 800px;
+    width: 30%;
+    float: left;
+}
+
+#div1 #find {
+    margin: auto;
+    height: 81px;
+    width: 90%;
+    border: 1px solid black;
+	background-color:  #eeeeee;
+}
+
+#div1 #lStaff {
+    margin: auto;
+    margin-top: 20px;
+    height: 650px;
+    width: 90%;
+    border: 1px solid #eeeeee;
+    background-color: #eeeeee;
+}
+
+#div1 #lStaff #head {
+    margin: auto;
+    height: 25px;
+    width: 130px;
+}
+
+#div1 #lStaff .text {
+    margin: 0px 15px;
+    width: 300px;
+    height: 35px;
+}
+
+#div1 #lStaff .text .text_first {
+    float: left;
+    width: 60px;
+    height: 35px;
+    padding-left: 20px;
+    border: 1px solid cornflowerblue;
+    border-right: none;
+
+}
+
+#div1 #lStaff .text .text_second {
+    float: left;
+    width: 150px;
+    height: 35px;
+    padding-left: 60px;
+    border: 1px solid cornflowerblue;
+}
+
+#div2 {
+    height: 100%;
+    width: 70%;
+    background-color: #b0b0b0;
+    float: right;
+}
+
+#div2 #form1 {
+    height: 100%;
+    width: 60%;
+    background-color: #eeeeee;
+}
+
+#div2 #form1 .text_form {
+    border: 1px solid black;
+    width: 100%;
+    height: 10%;
+
+}
+#div2 #form1 .text_form p {
+    font-weight: bold;
+    margin: 0px;
+}
+
+#div2 p {
+    font-weight: bold;
+    font-size: 10px;
+    border: 1px solid #808080;
+    margin: 0px;
+    border-left: none;
+background-color: #b0b0b0;
+}
+
+#div2 .text_form .trinh_chuyen {
+    height: 50%;
+    width: 100%;
+    background-color: #eeeeee;
+
+}
+
+
+#div2 .thongtin {
+    height: 50px;
+}
+
+#div2 .thontin .thongtin_1 label {
+    font-size: 22px;
+}  
+
+#div2 .thontin .thongtin_1 .text11 {
+    height: 22px;
+    width: 180px;
+}
+#div2 .noiSinh{
+    height: 50px;
+    padding-left: 10px;
+}
+#div2 .noiSinh label{
+    font-size: 22px;
+}
+#div2 .noiSinh input{
+    height: 22px;
+    width: 350px;
+}
+

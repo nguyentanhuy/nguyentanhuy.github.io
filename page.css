@@ -1,0 +1,402 @@
+body {
+    margin: 0px;
+    padding: 0px;
+font-size: 23px;
+    font-family: Tahoma, Arial;
+}
+
+#container {
+    margin: auto;
+    height: 800px;
+    width: 1200px;
+    background: #b0b0b0;
+    margin-top: 30px;
+}
+#container #list{
+    float: top;
+    background-color: deepskyblue;
+    font-size: 30px;
+    text-align: center;
+    line-height: 70px;
+    height: 70px;
+     width: 1200px;
+
+}
+#div1 {
+    height: 800px;
+    width: 30%;
+    float: left;
+}
+
+#lStaff #head p {
+    font-size: 13px;
+}
+
+#div1 #header {
+    margin: auto;
+    height: 130px;
+    width: 90%;
+    border: 1px solid black;
+    -webkit-box-shadow: 0px 5px 6px 2px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 5px 6px 2px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 5px 6px 2px rgba(0, 0, 0, 0.75);
+
+}
+
+#div1 #header #keywword {
+    margin: auto;
+    height: 70px;
+    width: 300px;
+}
+
+#div1 #header #keywword p {
+    font-size: 18px;
+    width: 80px;
+    float: left;
+}
+
+#div1 #header #keywword input {
+    margin-top: 15px;
+    height: 30px;
+    width: 200px;
+}
+
+#div1 #header button {
+    margin: auto;
+    margin-left: 100px;
+    height: 35px;
+    width: 110px;
+}
+
+#lStaff {
+    margin: auto;
+    margin-top: 30px;
+    height: 630px;
+    width: 90%;
+    border: 1px solid #eeeeee;
+}
+
+#lStaff #head {
+    margin: auto;
+    height: 25px;
+    width: 130px;
+}
+
+#lStaff .text {
+    margin: 0px 15px;
+    width: 300px;
+    height: 35px;
+}
+
+#lStaff .text .text_first {
+    float: left;
+    width: 60px;
+    height: 35px;
+    padding-left: 20px;
+    border: 1px solid cornflowerblue;
+    border-right: none;
+
+}
+
+#lStaff .text .text_second {
+    float: left;
+    width: 150px;
+    height: 35px;
+    padding-left: 60px;
+    border: 1px solid cornflowerblue;
+}
+
+
+#div2 {
+    height: 90%;
+    width: 70%;
+    background-color: #b0b0b0;
+    float: right;
+
+}
+
+#div2 #form1 {
+    height: 100%;
+    width: 504px;
+    background-color: #eeeeee;
+    float: left;
+}
+
+#div2 .text_form {
+
+    width: 100%;
+    height: 20%;
+
+}
+
+#div2 #form1 .text_form .ma {
+    height: 45%;
+    width: 100%;
+
+
+}
+
+#div2 #form1 .text_form .ma1 {
+    border-bottom: 1px solid black;
+}
+
+#div2 #form1 .text_form .ma1 .use_text {
+    height: 100%;
+    background-color: #eeeeee;
+
+}
+#div2 #form1 .text_form .trinh_de{
+    border-bottom: 1px solid black;
+
+}
+
+#div2 #form1 .text_form .ma1 .use_text label {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+#div2 #form1 .text_form .ma1 .maNV {
+    float: left;
+    width: 35%;
+}
+
+#div2 #form1 .text_form .ma1 .tenNV {
+    float: right;
+    width: 65%;
+}
+
+#div2 #form1 .text_form .ma1 .maNV input {
+    height: 30px;
+    background-color: white;
+    width: 70px;
+    margin-top: 20px;
+}
+
+#div2 #form1 .text_form .ma1 .tenNV input {
+    height: 30px;
+    background-color: white;
+    width: 200px;
+    margin-top: 20px;
+}
+
+#div2 #form1 .text_form .ma2 {
+    border-top: 1px solid black;
+}
+
+#div2 #form1 .text_form p {
+    font-weight: bold;
+    margin: 0px;
+}
+
+#div2 p {
+    font-weight: bold;
+    font-size: 10px;
+    margin: 0px;
+
+
+}
+
+#div2 .text_form .trinh_chuyen {
+    height: 50%;
+    width: 100%;
+    background-color: #eeeeee;
+
+}
+
+#div2 .text_form .trinh_chuyen label {
+    margin: 20px 0px 0px 0px;
+    font-size: 20px;
+    font-weight: bold;
+
+
+}
+
+#div2 .text_form .trinh_chuyen .in1 {
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+}
+
+#div2 .text_form .trinh_chuyen .in2 {
+    height: 30px;
+    width: 250px;
+
+} m
+
+#div2 .text_hd {
+    height: 400px;
+    margin-top: 30px;
+    border: 1px solid lightgray;
+
+}
+
+#div2 .text_hd .thongtin_1 label {
+    font-size: 22px;
+    font-size: 22px;
+}
+
+#div2 .text_hd .thongtin_1 .text11 {
+    height: 34px;
+    width: 153px;
+    margin-top: 10px;
+}
+
+#div2 .noiSinh {
+    height: 50px;
+    padding-top: 5px;
+}
+
+#div2 .noiSinh label {
+    font-size: 22px;
+}
+
+#div2 .noiSinh input {
+    height: 34px;
+    width: 390px;
+    float: right;
+    margin-right: 10px;
+}
+
+#div2 .so12 {
+    width: 100%;
+    height: 50px;
+
+}
+
+#div2 .so12 .so1 {
+    float: left;
+    width: 49%;
+    height: 50px;
+
+
+}
+
+#div2 .so12 .so1 label {
+    font-size: 23px;
+}
+
+#div2 .so12 .so1 input {
+    height: 34px;
+    width: 130px;
+    margin-left: 12px;
+
+}
+
+#div2 .so12 .so2 {
+    float: right;
+    width: 50%;
+    height: 100%;
+}
+
+#div2 .so12 .so2 label {
+    font-size: 23px;
+}
+
+#div2 .so12 .so2 input {
+    height: 34px;
+    width: 130px;
+    padding-left: 10px;
+
+}
+
+#div2 .text_qq {
+    height: 50px;
+    width: 100%;
+}
+
+
+
+#div2 .text_qq input {
+    height: 34px;
+    width: 390px;
+    float: right;
+    margin-right: 10px;
+}
+#div2 .form2{
+    float: right;
+    height: 100%;
+    width: 335px;
+
+}
+#div2 .form2 .text_form .picture{
+    height: 100%;
+    width: 70%;
+    float: left;
+}
+
+#div2 .form2 .text_form .picture label{
+    margin: 0px 10px 0px 100px;
+    font-size: 15px;
+}
+#div2 .form2 .text_form .picture .khung{
+    margin: 0px 10px 10px 100px;
+    height: 110px;
+    width: 110px;
+    background-color: gray;
+}
+#div2 .form2 .text_form .nut_XT{
+    height: 100%;
+    width: 30%;
+    float: right;
+}
+#div2 .form2 .text_form button{
+    width: 80px;
+    height: 40px;
+    margin: 25px 0px 0px 0px;
+
+}
+#div2 .form2 p{
+    border: 0;
+}
+#div2 .form2 .omega{
+    border: 1px solid black;
+}
+#div2 .form2 .omega .text_luong{
+    height: 50%;
+    width: 100%;
+
+}
+#div2 .form2 .omega .text_luong label{
+    margin-top: 5px;
+    margin-left: 5px;
+}
+#div2 .form2 .omega .text_luong input{
+    height: 36px;
+    width: 230px;
+    float: right;
+    margin-top: 5px;
+    margin-right: 5px;
+
+}
+#div2 .form2 .text_hd{
+    border: 1px solid lightgray;
+    height: 404px;
+}
+#div2 .form2 .text_hd .so3{
+    height: 50px;
+    width: 100%;
+
+}
+#div2 .form2 .text_hd .so3 label{
+    font-size: 23px;
+}
+#div2 .form2 .text_hd .so3 input{
+    height: 36px;
+    width: 200px;
+    float: right;
+    margin-right: 5px;
+}
+#div2 .div3{
+   margin-top: 730px;
+    height: 68px;
+    width: 838px;
+    border: 1px solid black;
+}
+#div2 .div3 .pop{
+    width: 70px;
+    height: 30px;
+    background-color: deepskyblue;
+    margin: 20px 0px 0px 100px;
+}

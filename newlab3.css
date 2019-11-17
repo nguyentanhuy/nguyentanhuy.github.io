@@ -1,0 +1,164 @@
+* {
+  
+  padding: 0;
+}
+ 
+/*==Style cơ bản cho website==*/
+body {
+  font-family: sans-serif;
+  color: #333;
+}
+#header1 h1{
+	text-align:center;
+	color:#FA194F;
+}
+.menu ul {
+  background: #1F568B;
+  list-style-type: none;
+  text-align: left;
+}
+.menu li {
+  color: #f1f1f1;
+  display: inline-block;
+  width: 100px;
+  height: 40px;
+  line-height: 40px;
+  margin-left: 5px;
+}
+.menu a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  font-size:20px;
+}
+.menu a:hover {
+  background: #F1F1F1;
+  color: #333;
+}
+#content_f_pattern{
+	margin-left:10%;
+	margin-right:10%;
+}
+
+.menu .btn-success{
+	float:right;
+	margin-top:0.5%;
+	margin-right:10%;
+}
+a{
+	text-decoration:none;
+	color: #000000;
+}
+.div_left{
+	padding-right:35%;
+}
+.content1 .title_img {
+	margin-left:55%;
+	margin-top:-15%
+}
+.div_left .content1 hr{
+	margin-top:13%
+}
+.content2 {
+	margin-top:4%
+}
+.content2 .title_img {
+	margin-left:55%;
+	margin-top:-15%
+}
+.div_left .content2 hr{
+	margin-top:13%
+}
+.content3 {
+	margin-top:4%
+}
+.content3 .title_img {
+	margin-left:55%;
+	margin-top:-15%
+}
+.div_right{
+	padding-left:75%;
+	margin-top:-50%;
+}
+.div_right hr{
+	margin-bottom:10%;
+}
+.menus{
+	
+	z-index:999;
+	margin-top: 20px;
+	background-color: unset;
+	border-color: transparent;
+}
+.nav_menu {
+	width: 100%;
+	position: absolute;
+}
+.header {
+	position: relative;
+	background-image: url("img/ngoinha.jpg");
+	background-size: cover;
+	height:498px;
+}
+.menusitem {
+	float: right;
+}
+.navbar-default .navbar-nav>li>a {
+	color:#FA194F;
+}
+.navbar-header h2{
+	color:#FA194F;
+	font-family:Rock-Salt;
+	float:left;
+	
+}
+.text {
+	width: 100%;
+	text-align: center;
+	z-index:1000;
+	position:absolute;
+	bottom: 40%;
+	color:#FF640D;
+}
+.label_find {
+	margin-left:30%;
+	width:30%;
+	z-index:1000;
+	position:absolute;
+	bottom:20%;
+}
+.label_find #find{
+	
+	background-repeat:no-repeat;
+	background-position:350px;
+}
+.btn-warning {
+	margin-left:100%;
+	margin-top:-14%;
+}
+#rotate:hover h2 {
+  transform: rotate(90deg);
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+}
+
+#transition h2 {
+  transition: 1s ease-in-out;
+}
+#transition:hover h2 {
+  transform: rotate(3turn);
+  -webkit-transform: rotate(3turn);
+  -moz-transform: rotate(3turn);
+}
+
+
+
+
+
+
+
+
+
+
+
+

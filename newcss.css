@@ -1,0 +1,67 @@
+#lab{
+	margin-top:10%;
+}
+.container ul  {
+	margin-bottom:2%;
+}
+.btn_down .btn {
+  background-color: green;
+  border: none;
+  color:#fff;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn_down .btn:hover {
+  background-color:DodgerBlue;
+}
+.btn_down .btn a{
+	text-decoration:none;
+	color:#fff;
+}
+
+#btn-down1{
+	float:right;
+	width:10%;
+	height:20%;
+	margin-right:10%;
+	margin-top:-20%;
+}
+#btn-down2{
+	float:right;
+	width:10%;
+	height:20%;
+	margin-right:10%;
+	margin-top:-20%;
+}
+#btn-down4{
+	float:right;
+	width:10%;
+	height:20%;
+	margin-right:10%;
+	margin-top:-20%;
+}
+#btn-down5{
+	float:right;
+	width:10%;
+	height:20%;
+	margin-right:10%;
+	margin-top:-20%;
+}
+#btn-down6{
+	float:right;
+	width:10%;
+	height:20%;
+	margin-right:10%;
+	margin-top:-20%;
+}
+#btn-down7{
+	float:right;
+	width:10%;
+	height:20%;
+	margin-right:10%;
+	margin-top:-20%;
+}
+  

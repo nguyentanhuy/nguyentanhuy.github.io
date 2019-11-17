@@ -1,0 +1,189 @@
+﻿body{
+    margin: 20px;
+    padding: 0px;
+    font-family: Arial;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+h3{
+text-align:left;
+corlor:blue;
+}
+#container{
+    width: 1300px;
+    height: 2500px;
+    background: aliceblue;
+    margin: auto;
+}
+#menu{
+    width: 100%;
+    height: 50px;
+}
+#menu ul{
+    padding: 0px;
+    margin: 0px;
+    overflow: auto;
+}
+#menu >ul{
+    background: gainsboro;
+}
+#menu ul li{
+    list-style: none;
+    float: left;
+    padding: 15px 0 15px 0;
+}
+#menu ul li:hover{
+    color: white;
+    cursor: pointer;
+    background: #F1C232;
+}
+#menu ul li a{
+    font-weight: bold;
+    margin: 0 30px 0 30px;
+}
+#menu ul li:hover a{
+    color: white;
+}
+#container .conent1{
+    padding-left: 50px;
+    margin-top: 50px;
+    font-size: 20px;
+    color: black;
+}
+#container .conent1 .title{
+    font-size: 36px;
+    font-weight: bold;
+}
+#nav{
+    height: 55px;
+    width: 100%;
+    padding: 0px;
+    background: #b8daff;
+}
+#nav ul{
+    padding: 0px;
+    margin: 0px;
+    overflow: auto;
+}
+#nav >ul{
+}
+#nav ul li{
+    list-style: none;
+    float: left;
+    padding: 15px 25px 15px 25px;
+}
+#nav ul li:hover{
+    color: white;
+    cursor: pointer;
+    background: #F1C232;
+}
+#nav ul li a{
+    font-weight: bold;
+}
+#nav ul li:hover a{
+    color: white;
+}
+#section-heading {
+    width: 100%;
+}
+#section-heading .lab1 {
+    color: black;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 30px;
+    border-top: #CCCCCC solid 1px;
+}
+#section-heading ul {
+    padding: 0px;
+    margin: 0px;
+    overflow: auto;
+}
+
+#section-heading ul li {
+    width: 150px;
+    list-style: none;
+    float: left;
+    padding: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#section-heading ul li a {
+    color: black;
+    text-align: center;
+}
+#section-heading ul li:hover{
+    color: white;
+    cursor: pointer;
+    background: #F1C232;
+}
+#section-heading ul li:hover a{
+    color: white;
+}
+#section-heading .tab-content {
+    width: 100%;
+    float: left;
+}
+#section-heading .tab-content .tab-pane {
+    margin-left: 25px;
+}
+#section-heading .tab-content .tab-pane .content{
+    font-size: 20px;
+    padding-right: 50px;
+}
+
+#container .header{
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+}
+
+
+
+#container .btn{
+    text-align:center;
+    margin: 5px;
+}
+
+
+#container #content{
+    height: 300px;
+    width: 900px;
+padding: 20px;
+}
+#container #content .div1 {
+    font-weight: inherit;
+    background-color: #F1C232;
+    width: 300px;
+    height: 200px;
+    margin: 10px;
+    padding: 20px;
+    border: 3px solid black;
+    display:list-item;
+    text-align: left;
+    position: relative;
+    float: left;
+}
+#container #content .div1 .text{
+    padding: 1px ;
+    margin:1px;
+    background: white;
+    text-align: center;
+    border-width: 2px;
+    cursor: text;
+}
+ .down1 , .down2, .down3, .down4, .downall{
+	margin-left: 800px;
+}
+.content p{
+	font-size:15px;
+}
+
+
+
+
